@@ -1,0 +1,9 @@
+<users>
+	<full_name>Balenko_Sergey_Igorevich</full_name>
+	<age>25</age>
+	<pets> 
+	<dog>=Jessie<dog>
+	<age>2</age>
+	</pets>
+	<desired_Salary>2000_bucks</desired_Salary>
+</users>
