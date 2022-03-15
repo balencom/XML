@@ -1,0 +1,18 @@
+	<users>
+    <id>90293198</id>
+    <summary>not_registering</summary>
+    <project>website_https://coinmarketcap.com/</project>
+    <component>registration</component>
+    <version>iPhone-V14.7.1</version>
+    <severity>critical</severity>
+    <priority>medium</priority>
+    <status>new</status>
+    <author>Balenko_Sergey</author>
+    <assigned_to>Ivan</assigned_to>
+      <description> 
+        <steps>after_registration_enter_your_correct_data_in_the_Email_Address_and_password_windows</steps>
+        <steps_to_play>after_registration_enter_your_correct_data_in_the_Email_Address_and_password_windows</steps_to_play>
+        {"actual result": "kicked out of the site"},
+        {"expected result": "login successful"}
+      </description>
+		</users>
