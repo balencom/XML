@@ -1,4 +1,4 @@
-	<users>
+<users>
     <id>90293198</id>
     <summary>not_registering</summary>
     <project>website_https://coinmarketcap.com/</project>
@@ -10,9 +10,8 @@
     <author>Balenko_Sergey</author>
     <assigned_to>Ivan</assigned_to>
       <description> 
-        <steps>after_registration_enter_your_correct_data_in_the_Email_Address_and_password_windows</steps>
         <steps_to_play>after_registration_enter_your_correct_data_in_the_Email_Address_and_password_windows</steps_to_play>
-        {"actual result": "kicked out of the site"},
-        {"expected result": "login successful"}
+        <actual_result>kicked_out_of_the_site</actual_result>
+        <expected_result>login_successful</expected_result>
       </description>
-		</users>
+</users>
